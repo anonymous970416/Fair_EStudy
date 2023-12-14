@@ -4,7 +4,8 @@
 
 ## About The Project
 
-This online appendix is supplementary to the paper entitled "Demystifying Contextual Influence on Fairness Testing for Deep Learning-based Systems". It contains the raw results, code for the proposed approach, and Colab script to replicate our experiment's result analysis.This README file describes the structure of the provided files (Raw data, source code and results). as well as information on the content of this repository.
+This online appendix is supplementary to the paper entitled "Contexts Matter: An Empirical Study on Contextual Influence in
+Fairness Testing for Deep Learning Systems". It contains the raw results, code for the proposed approach, and Colab script to replicate our experiment's result analysis.This README file describes the structure of the provided files (Raw data, source code and results). as well as information on the content of this repository.
 
 ## Table of Content
 
