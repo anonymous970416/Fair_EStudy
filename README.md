@@ -1,4 +1,4 @@
-# Demystifying Contextual Influence on Fairness Testing for Deep Learning-based Systems
+# Contexts Matter: An Empirical Study on Contextual Influence in Fairness Testing for Deep Learning Systems
 
 <!-- ABOUT THE PROJECT -->
 
